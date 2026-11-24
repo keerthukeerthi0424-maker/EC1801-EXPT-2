@@ -145,3 +145,5 @@ Output
 •	What is the difference between simulation and synthesis?
 •	What is the difference between $dumpfile and $dumpvars?
 
+# Result
+Thus, the basic AND, OR, and NOT logic gates were designed using Verilog HDL, and their functionality was successfully simulated and verified using Synopsys VCS and DVE.
